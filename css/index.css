@@ -756,11 +756,11 @@ div.panel p{
 	width: 950px;
 	margin:0 auto;
 	text-align: center;
-	margin-bottom: 10px;
 }
 
 .central-text h4{
 	font: 24px "Kaushan Script", sans-serif;
+	margin-bottom:10px;
 }
 
 .central-text h3{
