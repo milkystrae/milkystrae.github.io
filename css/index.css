@@ -760,7 +760,6 @@ div.panel p{
 
 .central-text h4{
 	font: 24px "Kaushan Script", sans-serif;
-	margin-bottom: -10px;
 }
 
 .central-text h3{
@@ -1454,10 +1453,4 @@ footer{
 	text-align: center;
 	text-transform: uppercase;
 	width: 150px;
-}
-
-@media (max-width: 600px) {
-	.spoilers{
-		visibility: hidden;
-	}
 }
