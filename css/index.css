@@ -8,6 +8,7 @@ body{
 #wrapper{
 	height: 10000px;
 	width: 1900px;
+	overflow-x: hidden;
 }
 
 
